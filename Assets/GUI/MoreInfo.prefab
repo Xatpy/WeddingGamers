@@ -11,7 +11,7 @@ GameObject:
   - 23: {fileID: 2383490}
   - 102: {fileID: 10221156}
   m_Layer: 0
-  m_Name: Title
+  m_Name: MoreInfo
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -73,7 +73,7 @@ TextMesh:
   m_Font: {fileID: 12800000, guid: db4becdfe42c29f419aea115cc869f87, type: 3}
   m_Color:
     serializedVersion: 2
-    rgba: 4294350866
+    rgba: 4294370766
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

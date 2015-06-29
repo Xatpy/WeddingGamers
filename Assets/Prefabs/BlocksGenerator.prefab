@@ -36,15 +36,15 @@ MonoBehaviour:
   m_GameObject: {fileID: 100000}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dbcbfc295ac82634d8fb6a95f37847bf, type: 3}
+  m_Script: {fileID: 11500000, guid: 65c25edcc7305454eb6fc5caf9441f19, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   obj:
-  - {fileID: 100000, guid: a6c9b1383bc1bae48b945bf423775c8d, type: 2}
-  - {fileID: 100000, guid: b166899d5eaecb346af7b50db91703ba, type: 2}
-  - {fileID: 100000, guid: 31b34c9c23910444c8cb72ab806b4c6b, type: 2}
+  - {fileID: 100000, guid: c0692669e0547934cacc8f3fffa62cc4, type: 2}
+  - {fileID: 100000, guid: 66410118c13691b4f971dd3e8ae5de07, type: 2}
+  - {fileID: 100000, guid: ddf9da851c0887548a40d64df58578eb, type: 2}
   tiempoMin: 1.25
-  tiempoMax: 2.75
+  tiempoMax: 2.5
 --- !u!1001 &100100000
 Prefab:
   m_ObjectHideFlags: 1

@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: f7ef7e0d37c99a74dbaadddc0064e428
+timeCreated: 1435687935
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas_novia
+    21300002: Atlas_novia_0
+    21300004: muela
+    21300006: Atlas_novia_2
+    21300008: Atlas_novia_3
+    21300010: Atlas_novia_4
+    21300012: Atlas_novia_5
+    21300014: Atlas_novia_6
+    21300016: novia_pie
+    21300018: dientes
+    21300020: novia_brazo
+    21300022: novia_mano
+    21300024: Atlas_novia_11
+    21300026: Atlas_novia_12
+    21300028: novia_pierna
+    21300030: cepillo
+    21300032: cuerpo_novia
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: muela
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 177
+        width: 54
+        height: 75
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_novia_2
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 157
+        width: 548
+        height: 99
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_novia_4
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 173
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_novia_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 84
+        height: 102
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: novia_pie
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 135
+        width: 29
+        height: 23
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: dientes
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 78
+        width: 183
+        height: 63
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: novia_brazo
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 110
+        width: 11
+        height: 44
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: novia_mano
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 92
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: novia_pierna
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 13
+        height: 49
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cepillo
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 5
+        width: 644
+        height: 72
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: cuerpo_novia
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 163
+        width: 67
+        height: 90
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

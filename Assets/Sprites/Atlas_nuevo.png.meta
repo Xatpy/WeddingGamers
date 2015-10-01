@@ -1,0 +1,183 @@
+fileFormatVersion: 2
+guid: 29354a88590edbc468a237850de8ac32
+timeCreated: 1435687705
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Atlas_nuevo
+    21300002: Atlas_nuevo_0
+    21300004: Atlas_nuevo_1
+    21300006: Atlas_nuevo_2
+    21300008: Atlas_nuevo_3
+    21300010: Atlas_nuevo_4
+    21300012: Atlas_nuevo_5
+    21300014: Atlas_nuevo_6
+    21300016: Atlas_nuevo_7
+    21300018: Atlas_nuevo_8
+    21300020: Atlas_nuevo_9
+    21300022: Atlas_nuevo_10
+    21300024: Atlas_nuevo_11
+    21300026: novio_plat
+    21300028: Atlas_nuevo_13
+    21300030: Atlas_nuevo_14
+    21300032: Atlas_nuevo_15
+    21300034: Atlas_nuevo_12
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Atlas_nuevo_0
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 176
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 158
+        width: 550
+        height: 93
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_5
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 99
+        width: 18
+        height: 59
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_8
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 0
+        width: 16
+        height: 68
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_9
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 177
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 70
+        width: 74
+        height: 97
+      alignment: 9
+      pivot: {x: .347506732, y: .1573001}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1
+        width: 18
+        height: 68
+      alignment: 2
+      pivot: {x: .5, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_12
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 154
+        width: 37
+        height: 14
+      alignment: 9
+      pivot: {x: .203611016, y: .695828021}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_13
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 95
+        width: 28
+        height: 33
+      alignment: 9
+      pivot: {x: .516319275, y: .7769292}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Atlas_nuevo_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 845
+        height: 85
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: novio_plat
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 104
+        width: 297
+        height: 76
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

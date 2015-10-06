@@ -3,32 +3,74 @@
 <head>
 <meta charset="UTF-8">
 <title>Juego boda Emma y Manuel</title>
+<link href='https://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
 </head>
 
 <style>
 body {    
         background-color: #86CEDC;
-    font-family: "Verdana", Times, serif;
+		font-family: 'Bree Serif', serif;
 }
 
-/*h1 {
+h1 {
         text-align: center;
-}*/
+		text-shadow: 1px 1px 0px #2c2e38, 2px 2px 0px #5c5f72;
+		
+}
+
+.linksDiv {
+	margin-left: 20%;
+}
+
+#center {
+	display: block !important;
+	margin-left: 33%;
+	margin-right: auto;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+
+.polaroid {
+  position: relative;
+  width: 220px;
+}
+ 
+.polaroid img {
+  border: 10px solid #fff;
+  border-bottom: 45px solid #fff;
+  -webkit-box-shadow: 3px 3px 3px #777;
+     -moz-box-shadow: 3px 3px 3px #777;
+          box-shadow: 3px 3px 3px #777;
+}
+ 
+.polaroid p {
+  position: absolute;
+  text-align: center;
+  width: 100%;
+  bottom: 0px;
+  font: 400 18px/1 'Kaushan Script', cursive;
+  color: #888;
+}
+
 </style>
 
 <body>
 	<h1>Juego boda Laura y Carlos</h1>
-	<h2>Links:</h2>
-	<ul>
-		<li><a href="http://www.jaimechapinal.com/weddinggamers/game.apk">Android (activa la opción: Ajustes -> Seguridad -> Seleccionar Orígenes Desconocidos.)</a></li>
-		<br>
-		<li><a href="http://www.jaimechapinal.com/weddinggamers/Web.html">Web (abrir con Firefox o Internet Explorer)</a></li>
-		<br>
-		<li><a href="http://www.jaimechapinal.com/weddinggamers/PC.zip">PC (ejecutar jugar en Modo ventana ("Windowed")</a></li>
-		<br>
-		<li><a href="http://www.jaimechapinal.com/weddinggamers/Mac.zip">Mac (ejecutar y jugar en Modo ventana ("Windowed")</a></li>
-	</ul>
-	<!--<img src="cartel.jpg"></img>-->
+	<div class="linksDiv">	
+		<h2>Links:</h2>
+		<ul>
+			<li><a href="http://www.jaimechapinal.com/weddinggamers/game.apk">Android (activa la opción: Ajustes -> Seguridad -> Seleccionar Orígenes Desconocidos.)</a></li>
+			<br>
+			<li><a href="http://www.jaimechapinal.com/weddinggamers/Web.html">Web (abrir con Firefox o Internet Explorer)</a></li>
+			<br>
+			<li><a href="http://www.jaimechapinal.com/weddinggamers/PC.zip">PC (ejecutar jugar en Modo ventana ("Windowed")</a></li>
+			<br>
+			<li><a href="http://www.jaimechapinal.com/weddinggamers/Mac.zip">Mac (ejecutar y jugar en Modo ventana ("Windowed")</a></li>
+		</ul>
+	</div>
+	<div class="polaroid" id="center">
+		<!--<img id="img" src="cartel.jpg"></img>-->
+	</div>
 	</body>
 
 </html>
